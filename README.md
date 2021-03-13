@@ -9,5 +9,6 @@
 - 배포 : CI 젠킨스, CD 쿠버네티스 master-1 worker-3 (우선은 수동으로 EKS 검토 고려)
 - 로깅 : elastic search, fluentd, kibana
 - apm : pinpoint
+- prometheus, grafana
 - 캐쉬 : elastic cache 사용
 - 데이터 파이프 라인 : kafaka
