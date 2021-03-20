@@ -12,3 +12,9 @@
 - prometheus, grafana
 - 캐쉬 : elastic cache 사용
 - 데이터 파이프 라인 : kafaka
+
+애자일
+- 테스트 주도 개발
+- 지속적인 리팩터링
+- 단순한 설계
+- 고객과의 소통 
